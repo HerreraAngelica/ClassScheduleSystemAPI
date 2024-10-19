@@ -1,0 +1,15 @@
+C:\Users\angge\source\repos\VStudio\ClassScheduleManagementAPI\DataLayer\bin\Debug\net8.0\DataLayer.deps.json
+C:\Users\angge\source\repos\VStudio\ClassScheduleManagementAPI\DataLayer\bin\Debug\net8.0\DataLayer.dll
+C:\Users\angge\source\repos\VStudio\ClassScheduleManagementAPI\DataLayer\bin\Debug\net8.0\DataLayer.pdb
+C:\Users\angge\source\repos\VStudio\ClassScheduleManagementAPI\DataLayer\bin\Debug\net8.0\Models1.dll
+C:\Users\angge\source\repos\VStudio\ClassScheduleManagementAPI\DataLayer\bin\Debug\net8.0\Models1.pdb
+C:\Users\angge\source\repos\VStudio\ClassScheduleManagementAPI\DataLayer\obj\Debug\net8.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\angge\source\repos\VStudio\ClassScheduleManagementAPI\DataLayer\obj\Debug\net8.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angge\source\repos\VStudio\ClassScheduleManagementAPI\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\angge\source\repos\VStudio\ClassScheduleManagementAPI\DataLayer\obj\Debug\net8.0\DataLayer.AssemblyInfo.cs
+C:\Users\angge\source\repos\VStudio\ClassScheduleManagementAPI\DataLayer\obj\Debug\net8.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\angge\source\repos\VStudio\ClassScheduleManagementAPI\DataLayer\obj\Debug\net8.0\DataLayer.csproj.Up2Date
+C:\Users\angge\source\repos\VStudio\ClassScheduleManagementAPI\DataLayer\obj\Debug\net8.0\DataLayer.dll
+C:\Users\angge\source\repos\VStudio\ClassScheduleManagementAPI\DataLayer\obj\Debug\net8.0\refint\DataLayer.dll
+C:\Users\angge\source\repos\VStudio\ClassScheduleManagementAPI\DataLayer\obj\Debug\net8.0\DataLayer.pdb
+C:\Users\angge\source\repos\VStudio\ClassScheduleManagementAPI\DataLayer\obj\Debug\net8.0\ref\DataLayer.dll

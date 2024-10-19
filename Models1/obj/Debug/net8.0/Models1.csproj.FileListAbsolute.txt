@@ -1,0 +1,11 @@
+C:\Users\angge\source\repos\VStudio\ClassScheduleManagementAPI\Models1\bin\Debug\net8.0\Models1.deps.json
+C:\Users\angge\source\repos\VStudio\ClassScheduleManagementAPI\Models1\bin\Debug\net8.0\Models1.dll
+C:\Users\angge\source\repos\VStudio\ClassScheduleManagementAPI\Models1\bin\Debug\net8.0\Models1.pdb
+C:\Users\angge\source\repos\VStudio\ClassScheduleManagementAPI\Models1\obj\Debug\net8.0\Models1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angge\source\repos\VStudio\ClassScheduleManagementAPI\Models1\obj\Debug\net8.0\Models1.AssemblyInfoInputs.cache
+C:\Users\angge\source\repos\VStudio\ClassScheduleManagementAPI\Models1\obj\Debug\net8.0\Models1.AssemblyInfo.cs
+C:\Users\angge\source\repos\VStudio\ClassScheduleManagementAPI\Models1\obj\Debug\net8.0\Models1.csproj.CoreCompileInputs.cache
+C:\Users\angge\source\repos\VStudio\ClassScheduleManagementAPI\Models1\obj\Debug\net8.0\Models1.dll
+C:\Users\angge\source\repos\VStudio\ClassScheduleManagementAPI\Models1\obj\Debug\net8.0\refint\Models1.dll
+C:\Users\angge\source\repos\VStudio\ClassScheduleManagementAPI\Models1\obj\Debug\net8.0\Models1.pdb
+C:\Users\angge\source\repos\VStudio\ClassScheduleManagementAPI\Models1\obj\Debug\net8.0\ref\Models1.dll
