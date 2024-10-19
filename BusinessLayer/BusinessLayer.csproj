@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataLayer\DataLayer.csproj" />
+    <ProjectReference Include="..\Models1\Models1.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="DataLayer">
+      <HintPath>..\..\..\ClassSchedAPI\DataLayer\bin\Debug\net8.0\DataLayer.dll</HintPath>
+    </Reference>
+    <Reference Include="Model">
+      <HintPath>..\..\..\ClassSchedAPI\DataLayer\bin\Debug\net8.0\Model.dll</HintPath>
+    </Reference>
+    <Reference Include="Models1">
+      <HintPath>..\DataLayer\bin\Debug\net8.0\Models1.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
